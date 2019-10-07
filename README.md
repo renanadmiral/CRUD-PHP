@@ -1,2 +1,2 @@
 # TrabalhoCRUD
-Trabalho CRUD AV1 feito em grupo
+Trabalho CRUD AV1
